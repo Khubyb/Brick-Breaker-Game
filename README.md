@@ -115,8 +115,6 @@ Brick Breaker_Game/
 ├── README.md                 # This file
 
 
-└── Brick Breaker.exe            # Compiled executable (after build)
-
 ## Prerequisites
 Required Software
 C++ Compiler
