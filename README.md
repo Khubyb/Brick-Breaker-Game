@@ -113,6 +113,8 @@ Brick Breaker_Game/
 │   ├── highscores.dat        # Win statistics
 │
 ├── README.md                 # This file
+
+
 └── Brick Breaker.exe            # Compiled executable (after build)
 
 ## Prerequisites
