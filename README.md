@@ -174,7 +174,13 @@ cd sfml-Brick Breaker-game
 
 
 ## Compilation & Running
-All Game Files Must inside a same Folder
+First, you can check the screenshots of my game.
+
+Step 1: Install a C++ compiler.
+Step 2: Install SFML and link it to your compiler.
+Step 3: Download and extract all the files provided in the Game Files section. After that, make sure to place all 21 files in the same folder.
+
+Once everything is set up, execute the game and play it on your PC or laptop.
 ## How to Play
 Starting the Game
 
