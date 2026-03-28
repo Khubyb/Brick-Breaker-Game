@@ -204,7 +204,7 @@ Losing the ball costs one life
 Game Controls
 Key / Action	Function
 Left / Right Arrow	Move paddle
-Space	To Bounce Ball form the Paddle
+Space	To Bounce Ball from the Paddle
 Q	Quick save game
 Resume – Continue playing
 Save Game – Save current state to file
